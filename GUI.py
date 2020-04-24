@@ -3,8 +3,8 @@ import difflib
 import wx.richtext as rt
 
 
-MENU_FILE_EXIT = wx.NewId()
-DRAG_SOURCE = wx.NewId()
+MENU_FILE_EXIT = wx.NewIdRef(count=1)
+DRAG_SOURCE = wx.NewIdRef(count=1)
 
 text_before_edit = ""
 

@@ -62,7 +62,7 @@ class MainWindow(wx.Frame):
 		self.text.SetDropTarget(dt1)
 
 		# text in control to copy 
-		f = open("sample.txt")
+		f = open("Sowmya Narasimha at Dharmapuri.Wiki")
 		input = f.read()
 		input.split()
 		print(input)

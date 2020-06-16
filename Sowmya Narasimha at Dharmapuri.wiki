@@ -1,0 +1,38 @@
+{{Use dmy dates|date=June 2018}}
+{{Use Indian English|date=June 2018}}
+{{Infobox Hindu temple
+| name                    = Sowmya Narasimha at Dharmapuri 
+| image              = 
+| alt          =
+| map_type        = 
+| map_caption        = 
+| coordinates        = 
+| country            = India
+| state              = 
+| district           = 
+| location           = karimnagar district
+| elevation_m        =
+| deity  = narasimha and bhrahma
+| facade_direction = 
+| temple_tank        = 
+| tower              = 
+| festivals= 
+| architecture       = 
+| temple_quantity  =
+| monument_quantity=
+| inscriptions       =
+| creator            =
+| website            = 
+}}
+'''Sowmya Narasimha at Dharmapuri''' is a Hindu temple.The temple is located at karimnagar district.
+
+==Darsan==
+* Morning - 
+* Evening - 
+
+
+==References==
+
+
+[[Category:Vishnu temples]]
+[[Category:Hindu temples in Kerala]]
